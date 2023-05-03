@@ -1,4 +1,4 @@
-# Ninja-Bug-Tracker
+# Issue-Bug-Tracker
 
 A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
 
@@ -14,4 +14,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 -User can track the issue by name or description.
 
 -Used Bootstrap for neat UI.
+
+# Hosting Url
+https://issue-tracker-ogfk.onrender.com
 
